@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.image_container .img img {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.image_container .img {
+    overflow: hidden;
+    margin: 20px;
+    
+}
+
+.image_container .img:hover {
+    scale: 1.1;
+}
+
+
+.image_container {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+#image_gallery {
+    max-width: 12000px;
+    margin: 80px auto;
+    text-align: center;
+}

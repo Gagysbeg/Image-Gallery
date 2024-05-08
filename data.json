@@ -1,0 +1,29 @@
+[{
+    "title": "Beach Girl",
+    "path": "img/1.jpg"
+    },
+
+    {
+        "title": "Beach Girl 2",
+        "path": "img/2.jpg"
+
+    },
+    {
+        "title": "Beach Couple",
+        "path": "img/3.jpg"
+    },
+    {
+        "title": "Safari family",
+        "path": "img/4.jpeg"
+     },
+
+     {
+        "title": "Airport family",
+        "path": "img/5.jpg"
+     },
+
+     {
+        "title": "Anime family",
+        "path": "img/6.jpeg"
+     }
+]
